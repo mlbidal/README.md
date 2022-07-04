@@ -1,17 +1,17 @@
 # README.md
 
 <h1 align="center">Hi 👋, I'm María Lucía Bidal</h1>
-<h3 align="center">A passionate Full Stack developer from Argentina</h3>
+<h3 align="center">A passionate Full Stack developer from Argentina to 🌎</h3>
 
-- 🔭 My last big project was [E-SOCIAL](https://e-social-book.netlify.app/)
+ 🔭 My last big project was [E-SOCIAL](https://e-social-book.netlify.app/)
 
-- 🌱 I’m currently learning more about **TypeScript and Databases**
+ 🌱 I’m currently business and systems administration student.
 
-- 👨‍💻 All of my projects are available at [https://github.com/mlbidal](https://github.com/mlbidal)
+ 👨‍💻 All of my projects are available at [https://github.com/mlbidal](https://github.com/mlbidal)
 
-- 📫 How to reach me **maluciabidal@gmail.com**
+ 📫 How to reach me **maluciabidal@gmail.com**
 
-- ⚡ Fun fact **Im a musician. I play the piano, bass and I really like to produce tracks on my free time.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
