@@ -11,7 +11,14 @@
 
  📫 How to reach me **maluciabidal@gmail.com**
 
-![Mlbidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlbidal&show_icons=true&theme=radical)
+ ## 📊 Take a look in my stats
+
+<a href="https://github.com/mlbidal" >
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=mlbidal&show_icons=true&bg_color=fff&title_color=DD6387&icon_color=BD93F9&text_color=023047&border_color=fff" />
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlbidalj&layout=compact&bg_color=fff&title_color=DD6387&icon_color=BD93F9&text_color=023047&border_color=fff" />
+</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mlbidal&theme=light" alt="mlbidal" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
